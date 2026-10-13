@@ -58,7 +58,7 @@ Our proposed a CoT-Enhanced Progressive Learning (CEPL) strategy to better lever
 
 | Component            | Status       | Notes                             |
 |---------------------|--------------|-----------------------------------|
-| ✅ Dataset Release   | **Completed**| -                         |
+| ✅ Dataset Release   | **Completed**| -  See [Agreement](./facecot_agreement.pdf)                       |
 | ✅ Paper             | **Completed**| -             |
 | 🚧 Model Weights     | **Pending**  | -           |
 | 🚧 Training Code     | **Pending**  | -   |
